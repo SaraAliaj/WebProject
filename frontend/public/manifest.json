@@ -1,0 +1,10 @@
+{
+  "short_name": "Eventify",
+  "name": "Eventify - Event Management Platform",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#13294B",
+  "background_color": "#F2F2ED"
+} 
